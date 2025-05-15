@@ -32,12 +32,6 @@ In this game, you have to **guess the correct word** one letter at a time. For e
 
 ---
 
-## 📸 Screenshots
-
-![Hangman Game Screenshot](https://anuj0224.github.io/hangman_game/screenshot.png) <!-- Replace with actual screenshot if hosted -->
-
----
-
 ## 💡 How to Play
 
 1. Start the game — a word with hidden letters will appear.
